@@ -1,4 +1,6 @@
- Understand Git and GitHub:
+ Understand Git and GitHub:  Author: Sai Swaroop
+ This repo is a testbed for learning Git operations like cloning, forking, remotes, branches, and PRs.
+
 
 Cloning: Making a full copy of an existing GitHub repo to your local machine.
 git clone https://github.com/YOUR-USERNAME/repo-name.git
